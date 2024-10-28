@@ -1,4 +1,4 @@
-package Five;
+package five;
 
 import java.util.*;
 
